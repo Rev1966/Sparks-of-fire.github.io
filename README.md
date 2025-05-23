@@ -1,11 +1,11 @@
 # Sparks-of-fire
 ## 星星之火可以燎原，中国革命社的各种相关链接及官方邮箱 
 # 《造反周刊》获取链接：
-## https://github.com/Rev1966/ZFZK
+### https://github.com/Rev1966/ZFZK
 # 加入总群及中国革命社教程：
-## https://github.com/Rev1966/Long-live-the-revolution
+### https://github.com/Rev1966/Long-live-the-revolution
 # 官方邮箱（发送邮件订阅《造反周刊》）：
-## cxOUUChistyakovaDina@gmail.com
+### cxOUUChistyakovaDina@gmail.com
 # xmpp频道链接：
-## xmpp:马列毛墙内总资料库@conference.conversations.im?join
-## xmpp:马列毛主义墙内总群@muc.xmpp.earth?join
+### xmpp:马列毛墙内总资料库@conference.conversations.im?join
+### xmpp:马列毛主义墙内总群@muc.xmpp.earth?join
