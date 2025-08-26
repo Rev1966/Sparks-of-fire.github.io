@@ -4,8 +4,8 @@
 ### https://github.com/Rev1966/Rebellion-is-justified
 ## 加入总群及中国革命社教程：
 ### https://github.com/Rev1966/Long-live-the-revolution
-## 官方邮箱（发送邮件订阅《造反周刊》）：
-### cxOUUChistyakovaDina@gmail.com
+## 官方邮箱：
+### Rev-1967@protonmail.com
 ## xmpp频道链接：
 ### xmpp:马列毛墙内总资料库@conference.conversations.im?join
 ### xmpp:马列毛主义墙内总群@muc.xmpp.earth?join
